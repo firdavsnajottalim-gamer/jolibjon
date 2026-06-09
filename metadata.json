@@ -1,0 +1,6 @@
+{
+  "name": "English-Uzbek Learner",
+  "description": "Interactive English-Uzbek dictionary, vocabulary games (Match, Scramble, Quiz), custom gradient backgrounds, active user logs, and a locked 'teacher' admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
